@@ -1,0 +1,12 @@
+{
+  "class_names": [
+    "dermis",
+    "dermquest"
+  ],
+  "img_size": [
+    224,
+    224
+  ],
+  "model_name": "MobileNetV2",
+  "test_accuracy": 0.8387096774193549
+}
